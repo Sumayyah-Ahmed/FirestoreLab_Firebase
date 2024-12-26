@@ -9,5 +9,6 @@ I wrote Python programs &
 •	Added a player to the database
 •	Updated a player
 •	Deleted a player
-Have a look at this interesting lab! 
 
+
+Have a look at this interesting lab! 
